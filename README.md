@@ -1,5 +1,5 @@
 # WifiKiller
-Simple WifiKiller deauthenticates users from the wifi network (working only on Linux!)
+Simple WifiKiller deauthenticates users from the wifi network (Working only on Linux!)
 
 ## How starting ?
 Before starting WifiKiller for the first time, run requirements.py
