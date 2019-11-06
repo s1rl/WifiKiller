@@ -9,7 +9,6 @@ print(colored("  \ \      / / (_)  / _| (_)         | | / /(_) | | | |   ___   _
 print(colored("   \ \ /\ / /  | | | |_  | |  _____  | |/ / | | | | | |  / _ \ | '__|", 'blue'))
 print(colored("    \ V  V /   | | |  _| | | |_____| |   <  | | | | | | |  __/ | |   ", 'blue'))
 print(colored("     \_/\_/    |_| |_|   |_|         |_|\_\ |_| |_| |_|  \___| |_| \n", 'blue'))
-print(colored("                                           [i]   -   Created By F34RZ", 'red' ))
 
 time.sleep(2)                   
 
