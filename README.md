@@ -7,4 +7,4 @@ Before starting WifiKiller for the first time, run requirements.py
 python3 WifiKiller.py
 ```
 Creators:  
-+ [F34RZ](https://github.com/xxxfearz)
++ [TulpA](https://github.com/s1rl)
